@@ -1,1 +1,1 @@
-# TransferMatrix
+This project looked at the frequency that students transfered from one modality to another modality between sequenced courses.  The goal of this project was to determine if there were any substantial trends in students' experiences to help improve course offerings in future semesters.  
